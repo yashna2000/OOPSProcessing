@@ -1,0 +1,25 @@
+<component name="libraryTable">
+  <library name="Processing">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/Processing.app/Contents/Java/ant-launcher.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/Processing.app/Contents/Java/ant.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/Processing.app/Contents/Java/core.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/Processing.app/Contents/Java/jna-platform.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/Processing.app/Contents/Java/jna.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/Processing.app/Contents/Java/pde.jar!/" />
+      <root url="file://$USER_HOME$/Downloads/Processing.app/Contents/Java/modes" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/Downloads/Processing.app/Contents/Java/modes/java/generated" />
+      <root url="file://$USER_HOME$/Downloads/Processing.app/Contents/Java/modes/java/libraries/dxf/src" />
+      <root url="file://$USER_HOME$/Downloads/Processing.app/Contents/Java/modes/java/libraries/io/src" />
+      <root url="file://$USER_HOME$/Downloads/Processing.app/Contents/Java/modes/java/libraries/net/src" />
+      <root url="file://$USER_HOME$/Downloads/Processing.app/Contents/Java/modes/java/libraries/pdf/src" />
+      <root url="file://$USER_HOME$/Downloads/Processing.app/Contents/Java/modes/java/libraries/serial/src" />
+      <root url="file://$USER_HOME$/Downloads/Processing.app/Contents/Java/modes/java/libraries/svg/src" />
+      <root url="file://$USER_HOME$/Downloads/Processing.app/Contents/Java/modes/java/src" />
+      <root url="file://$USER_HOME$/Downloads/Processing.app/Contents/Java/modes/java/test" />
+    </SOURCES>
+  </library>
+</component>
